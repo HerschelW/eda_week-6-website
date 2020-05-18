@@ -115,14 +115,6 @@ newCar(
 );
 
 newCar(
-   "1991",
-   "Pontiac",
-   "Grand Prix",
-   "https://lh3.googleusercontent.com/proxy/st59Gd_s2U8DpaCR_h_DPlAAsBj75Axf_RiPWPOxl5RD9ObOo_Jb-cWdPgL6oOqa5L0Jqze3_iQiDZIrSgE2nCAHPO--tUjyDbjSDS5Ja1n3",
-   "1600"
-);
-
-newCar(
    "2003",
    "Pontiac",
    "Grand Prix",
